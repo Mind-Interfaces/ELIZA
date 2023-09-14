@@ -1,0 +1,14 @@
+Person : Men are all alike.
+ELIZA : In what way?
+Person : They're always bugging us about something or other.
+ELIZA : Can you think of a specific example?
+Person : Well, my boyfriend made me come here.
+ELIZA : Your boyfriend made you come here?
+Person : He says I'm depressed much of the time.
+ELIZA : I am sorry to hear that you are depressed.
+Person : It's true. I am unhappy.
+ELIZA : Do you think coming here will help you not to be unhappy?
+Person : I need some help, that much seems certain.
+ELIZA : What would it mean to you if you got some help?
+Person : Perhaps I could learn to get along with my mother.
+ELIZA : Tell me more about your family
