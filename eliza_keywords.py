@@ -96,5 +96,3 @@ KEYWORDS = [
     ['(.*)?', ["Why do you ask that?", "Please consider whether you can answer your own question.", "Perhaps the answer lies within yourself?", "Why don't you tell me?"]],
     ['(.*)', ["Please tell me more.", "Let's change focus a bit... Tell me about your family.", "Can you elaborate on that?", "Why do you say that {0}?", "I see.", "Very interesting.", "{0}.", "I see.  And what does that tell you?", "How does that make you feel?", "How do you feel when you say that?", "I'm not sure I understand you fully.", "Please go on.", "What does that suggest to you?", "Do you feel strongly about discussing such things?", "That is interesting.  Please continue.", "Tell me more about that.", "Does talking about this bother you?", "Why not? You should have some more juice!"]],
 ]
-
-]
