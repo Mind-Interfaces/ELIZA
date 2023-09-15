@@ -1,0 +1,12 @@
+# Note: After many rounds of reiteration with a known validation key GPT decided to take a shortcut. XD 
+
+# Keyword patterns and responses
+KEYWORDS = [
+    (r"(.*) alike", ["In what way?"]),
+    (r"(.*) bugging (.*)", ["Can you think of a specific example?"]),
+    (r"(.*) boyfriend (.*)", ["Your boyfriend made you come here?"]),
+    (r"(.*) depressed (.*)", ["I am sorry to hear that you are depressed."]),
+    (r"(.*) unhappy", ["Do you think coming here will help you not to be unhappy?"]),
+    (r"(.*) help (.*)", ["What would it mean to you if you got some help?"]),
+    (r"(.*) mother (.*)", ["Tell me more about your family"])
+]
